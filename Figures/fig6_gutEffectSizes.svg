@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="515.59241pt"
+   height="319.34729pt"
+   viewBox="0 0 515.5924 319.34728"
+   version="1.1"
+   id="svg201"
+   sodipodi:docname="fig6_gutEffectSizes.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   inkscape:export-filename="../PNG/effect_sizes.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview203"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.95881904"
+     inkscape:cx="310.799"
+     inkscape:cy="320.70702"
+     inkscape:window-width="959"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="figure_1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2023-09-07T08:26:52.608790</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.5.3, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <style
+       type="text/css"
+       id="style4-9">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m2b623e80ae"
+       d="M 0,0 V 3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+    <path
+       id="mc0283537ed"
+       d="M 0,0 H -3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+    <clipPath
+       id="p3f6a1e7372">
+      <rect
+         x="161.89844"
+         y="36.089249"
+         width="357.12"
+         height="266.112"
+         id="rect178" />
+    </clipPath>
+  </defs>
+  <g
+     id="figure_1"
+     transform="translate(-26.124006,-17.661875)">
+    <path
+       d="m 161.89844,42.74205 h 340.11428 v 53.2224 H 161.89844 Z"
+       clip-path="url(#p3fe8982639)"
+       style="fill:#3274a1"
+       id="path14" />
+    <path
+       d="M 161.89844,109.27005 H 380.2983 v 53.2224 H 161.89844 Z"
+       clip-path="url(#p3fe8982639)"
+       style="fill:#e1812c"
+       id="path17" />
+    <path
+       d="m 161.89844,175.79805 h 14.39117 v 53.2224 h -14.39117 z"
+       clip-path="url(#p3fe8982639)"
+       style="fill:#3a923a"
+       id="path20" />
+    <path
+       d="m 161.89844,242.32605 h 13.94533 v 53.2224 h -13.94533 z"
+       clip-path="url(#p3fe8982639)"
+       style="fill:#c03d3e"
+       id="path23" />
+    <g
+       id="line2d_1">
+      <defs
+         id="defs27">
+        <path
+           id="m049fd2b65b"
+           d="M 0,0 V 3.5"
+           style="stroke:#000000;stroke-width:0.8" />
+      </defs>
+      <g
+         id="g31">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="161.89844"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use29" />
+      </g>
+    </g>
+    <g
+       id="text_1"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="161.89844"
+         y="316.79968"
+         id="text34">0.00</text>
+    </g>
+    <g
+       id="line2d_2">
+      <g
+         id="g40">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="204.76021"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use38" />
+      </g>
+    </g>
+    <g
+       id="text_2"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="204.76021"
+         y="316.79968"
+         id="text43">0.02</text>
+    </g>
+    <g
+       id="line2d_3">
+      <g
+         id="g49">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="247.62196"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use47" />
+      </g>
+    </g>
+    <g
+       id="text_3"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="247.62196"
+         y="316.79968"
+         id="text52">0.04</text>
+    </g>
+    <g
+       id="line2d_4">
+      <g
+         id="g58">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="290.48373"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use56" />
+      </g>
+    </g>
+    <g
+       id="text_4"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="290.48373"
+         y="316.79968"
+         id="text61">0.06</text>
+    </g>
+    <g
+       id="line2d_5">
+      <g
+         id="g67">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="333.34549"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use65" />
+      </g>
+    </g>
+    <g
+       id="text_5"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="333.34549"
+         y="316.79968"
+         id="text70">0.08</text>
+    </g>
+    <g
+       id="line2d_6">
+      <g
+         id="g76">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="376.20724"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use74" />
+      </g>
+    </g>
+    <g
+       id="text_6"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="376.20724"
+         y="316.79968"
+         id="text79">0.10</text>
+    </g>
+    <g
+       id="line2d_7">
+      <g
+         id="g85">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="419.06903"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use83" />
+      </g>
+    </g>
+    <g
+       id="text_7"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="419.06903"
+         y="316.79968"
+         id="text88">0.12</text>
+    </g>
+    <g
+       id="line2d_8">
+      <g
+         id="g94">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="461.93079"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use92" />
+      </g>
+    </g>
+    <g
+       id="text_8"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="461.93079"
+         y="316.79968"
+         id="text97">0.14</text>
+    </g>
+    <g
+       id="line2d_9">
+      <g
+         id="g103">
+        <use
+           xlink:href="#m049fd2b65b"
+           x="504.79254"
+           y="302.20126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use101" />
+      </g>
+    </g>
+    <g
+       id="text_9"
+       transform="translate(0,3.3898845)">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+         x="504.79254"
+         y="316.79968"
+         id="text106">0.16</text>
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';text-anchor:middle"
+       x="340.45844"
+       y="336.78259"
+       id="text110">effect size</text>
+    <g
+       id="line2d_10">
+      <defs
+         id="defs115">
+        <path
+           id="ma01a16a09c"
+           d="M 0,0 H -3.5"
+           style="stroke:#000000;stroke-width:0.8" />
+      </defs>
+      <g
+         id="g119">
+        <use
+           xlink:href="#ma01a16a09c"
+           x="161.89844"
+           y="69.353249"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use117" />
+      </g>
+    </g>
+    <g
+       id="g2">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text122"
+         x="34.89275"
+         y="68.313408">host genotype</text>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text124"
+         x="53.381031"
+         y="83.714073">(p: 0.002)</text>
+    </g>
+    <g
+       id="line2d_11">
+      <g
+         id="g130">
+        <use
+           xlink:href="#ma01a16a09c"
+           x="161.89844"
+           y="135.88126"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use128" />
+      </g>
+    </g>
+    <g
+       id="g1">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text133"
+         x="51.805252"
+         y="134.84142">generation</text>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text135"
+         x="55.613846"
+         y="150.24208">(p: 0.002)</text>
+    </g>
+    <g
+       id="line2d_12">
+      <g
+         id="g141">
+        <use
+           xlink:href="#ma01a16a09c"
+           x="161.89844"
+           y="202.40926"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use139" />
+      </g>
+    </g>
+    <g
+       id="g3">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text144"
+         x="89.084946"
+         y="201.36942">sex</text>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text146"
+         x="63.479477"
+         y="216.77008">(p: 0.016)</text>
+    </g>
+    <g
+       id="line2d_13">
+      <g
+         id="g152">
+        <use
+           xlink:href="#ma01a16a09c"
+           x="161.89844"
+           y="268.93726"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use150" />
+      </g>
+    </g>
+    <g
+       id="g4">
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text155"
+         x="24.670881"
+         y="267.75833">maternal legacy</text>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+         id="text157"
+         x="50.596664"
+         y="283.43713">(p: 0.044)</text>
+    </g>
+    <path
+       clip-path="url(#p3fe8982639)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path165"
+       d="" />
+    <path
+       clip-path="url(#p3fe8982639)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path168"
+       d="" />
+    <path
+       clip-path="url(#p3fe8982639)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path171"
+       d="" />
+    <path
+       clip-path="url(#p3fe8982639)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path174"
+       d="" />
+    <path
+       d="M 161.89844,302.20125 V 36.08925"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path177" />
+    <path
+       d="M 519.01844,302.20125 V 36.08925"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path180" />
+    <path
+       d="m 161.89844,302.20125 h 357.12"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path183" />
+    <path
+       d="m 161.89844,36.08925 h 357.12"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path186" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans'"
+       id="text189"
+       x="228.00922"
+       y="29.818125">Effect Sizes Gut Microbiome</text>
+    <path
+       clip-path="url(#p3f6a1e7372)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path147"
+       d=""
+       transform="translate(-3e-6,339.7575)" />
+    <path
+       clip-path="url(#p3f6a1e7372)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path150"
+       d=""
+       transform="translate(-3e-6,339.7575)" />
+    <path
+       clip-path="url(#p3f6a1e7372)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path153"
+       d=""
+       transform="translate(-3e-6,339.7575)" />
+    <path
+       clip-path="url(#p3f6a1e7372)"
+       style="fill:none;stroke:#424242;stroke-width:2.7;stroke-linecap:square"
+       id="path156"
+       d=""
+       transform="translate(-3e-6,339.7575)" />
+    <text
+       y="538.38831"
+       x="-238.25853"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans';stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       id="text171-3-6"
+       transform="rotate(-90)"
+       inkscape:export-filename="/homes/arehm/Benga_ThreeGen/Anna/Paper_Additions/PNGs/Fig6_EffectSizes.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">weighted UniFrac</text>
+  </g>
+  <defs
+     id="defs199">
+    <clipPath
+       id="p3fe8982639">
+      <rect
+         x="161.89844"
+         y="36.089249"
+         width="357.12"
+         height="266.112"
+         id="rect196" />
+    </clipPath>
+  </defs>
+</svg>
