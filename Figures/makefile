@@ -4,11 +4,11 @@ SVGFILES = $(wildcard fig*.svg)
 
 figures = PDF/GA.pdf \
 	  PDF/fig1_breedingStrategy.pdf \
-	  PDF/fig2_gutDiversity.pdf \
-	  PDF/fig3_gutTemporal.pdf \
-	  PDF/fig4_skinTemporal.pdf \
-	  PDF/fig5_gutTaxonomy.pdf \
-	  PDF/fig6_gutEffectSizes.pdf \
+	  PDF/fig3_gutDiversity.pdf \
+	  PDF/fig2_gutTemporal.pdf \
+	  PDF/fig5_skinTemporal.pdf \
+	  PDF/fig6_gutTaxonomy.pdf \
+	  PDF/fig4_gutEffectSizes.pdf \
 	  PDF/fig7_metabolites.pdf \
 	  PDF/figS1_emperorSkinGut.pdf \
 	  PDF/figS2_skinDiversity.pdf \
@@ -37,9 +37,11 @@ PDF/%.pdf: %.svg
 	inkscape -d $(PNGDPI) -C --export-type=pdf -o $@ $<
 	
 PDF/%.pdf: %.jpg
+	mkdir -p `dirname $@`
 	convert $< $@;
 
 PNG/%.png: %.jpg
+	mkdir -p `dirname $@`
 	convert $< $@;
 
 PNG/%.png: %.svg
