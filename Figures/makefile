@@ -26,11 +26,11 @@ pdf: $(figures)
 png: $(subst PDF,PNG,$(figpng))
 
 
-PDF/fig1_breedingStrategy.pdf: fig1_breedingStrategy.pdf
-	cp fig1_breedingStrategy.pdf PDF/
-
-PNG/fig1_breedingStrategy.png: fig1_breedingStrategy.pdf
-	convert $< $@
+#PDF/fig1_breedingStrategy.pdf: fig1_breedingStrategy.pdf
+#	cp fig1_breedingStrategy.pdf PDF/
+#
+#PNG/fig1_breedingStrategy.png: fig1_breedingStrategy.pdf
+#	convert $< $@
 
 PDF/%.pdf: %.svg
 	mkdir -p `dirname $@`
