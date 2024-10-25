@@ -54,5 +54,6 @@ EPS/%.eps: %.svg
 	inkscape -d $(PNGDPI) -C --export-type=eps -o $@ $<
 	
 EPS/%.eps: %.jpg
+	mkdir -p `dirname $@`
 	convert $< $@;
 
